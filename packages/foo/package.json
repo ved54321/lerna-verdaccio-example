@@ -1,6 +1,6 @@
 {
   "name": "foo",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git"
   },
@@ -9,6 +9,5 @@
   "scripts": {},
   "dependencies": {
     "nock": "^10.0.0"
-  },
-  "devDependencies": {}
+  }
 }
