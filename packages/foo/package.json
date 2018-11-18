@@ -4,8 +4,7 @@
   "repository": {
     "type": "git"
   },
-  "license": "UNLICENSED",
-  "private": true,
+  "license": "MIT",
   "scripts": {},
   "dependencies": {
     "nock": "^10.0.0"
