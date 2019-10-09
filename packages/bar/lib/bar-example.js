@@ -3,5 +3,5 @@
 module.exports = barExample;
 
 function barExample() {
-    // TODO
+    console.log("hello log from ved");
 }
