@@ -1,6 +1,6 @@
 {
     "name": "@inconvo/foo",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "scripts": {},
     "dependencies": {
         "nock": "^10.0.0"
