@@ -1,7 +1,7 @@
 {
     "version": "0.0.9",
     "packages": [
-        "bar"
+        "packages/*"
     ],
     "npmClient": "npm",
     "useWorkspaces": true,
