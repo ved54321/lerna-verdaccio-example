@@ -10,6 +10,6 @@
     "registry": "lerna publish --registry http://localhost:4873"
   },
   "devDependencies": {
-    "lerna": "^3.4.3"
+    "lerna": "^3.16.5"
   }
 }
