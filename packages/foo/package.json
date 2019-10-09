@@ -1,10 +1,8 @@
 {
     "name": "@inconvo/foo",
-    "version": "0.0.3",
-    "license": "ISC",
+    "version": "0.0.6",
     "scripts": {},
     "dependencies": {
         "nock": "^10.0.0"
-    },
-    "gitHead": "7a55e33c4c67e26ea83a8108f045c11042182608"
+    }
 }
