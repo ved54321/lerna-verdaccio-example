@@ -1,13 +1,10 @@
 {
-  "name": "bar",
-  "version": "0.0.2",
-  "repository": {
-    "type": "git"
-  },
-  "license": "MIT",
-  "scripts": {},
-  "dependencies": {
-    "nock": "^10.0.0"
-  },
-  "gitHead": "ed71a9c9b07862989b71cafdbcff027958478231"
+    "name": "@inconvo/bar",
+    "version": "0.0.3",
+    "license": "ISC",
+    "scripts": {},
+    "dependencies": {
+        "nock": "^10.0.0"
+    },
+    "gitHead": "7a55e33c4c67e26ea83a8108f045c11042182608"
 }
